@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "C:\\ML_Notebook\\env\\Scripts\\python.exe",
+  "python.linting.pylintEnabled": false,
+  "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2"],
+  "python.linting.enabled": false,
+  "python.formatting.provider": "black"
+}
